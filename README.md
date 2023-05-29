@@ -19,3 +19,11 @@ For Managing the Operations -> Manage Operations Page
 
 For Transfer the Product -> Warehouse & Inventory Transfer Page
 ![Transfer_Page](https://github.com/ilaydagulasar/Visual-Programming-Midterm-Project/assets/119593384/56b500a7-f640-4c72-88e5-fe161d373683)
+
+
+For Customer Login:
+![Login_Page_2](https://github.com/ilaydagulasar/Visual-Programming-Midterm-Project/assets/119593384/c84593de-4e80-45fd-99c4-cfad6e0273ab)
+
+
+Making a Request for the Product -> Inventory Request Page
+![Inventory_Request_Page](https://github.com/ilaydagulasar/Visual-Programming-Midterm-Project/assets/119593384/ee1870c9-ecc4-4b2a-8624-9cfffef7ca97)
