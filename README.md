@@ -8,7 +8,7 @@ For Manufacturer Login:
 
 
 
-Selection of the Task![Select_the_Task](https://github.com/ilaydagulasar/Visual-Programming-Midterm-Project/assets/119593384/f6fbc0a7-1eba-485e-99c3-99370701befa)
+![Select_the_Task](https://github.com/ilaydagulasar/Visual-Programming-Midterm-Project/assets/119593384/f6fbc0a7-1eba-485e-99c3-99370701befa)
 
 
 
